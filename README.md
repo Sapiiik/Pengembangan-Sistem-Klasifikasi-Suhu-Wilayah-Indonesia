@@ -1,4 +1,4 @@
-# 🇮🇩 Kategori Suhu Indonesia (Indonesian Weather Categorizer)
+# Kategori Suhu Indonesia (Indonesian Weather Categorizer)
 
 Program sederhana berbasis **Golang** untuk mengkategorikan kondisi suhu (Celcius) berdasarkan standar kenyamanan cuaca di Indonesia.
 
