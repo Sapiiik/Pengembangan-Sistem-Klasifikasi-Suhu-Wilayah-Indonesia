@@ -23,7 +23,7 @@ Aplikasi _Command Line Interface_ (CLI) ini meminta pengguna untuk memasukkan an
 
 1.  **Clone repository ini** (atau download filenya):
     ```bash
-    git clone [https://github.com/username-anda/kategori-suhu-indonesia.git](https://github.com/username-anda/kategori-suhu-indonesia.git)
+    git clone https://github.com/Sapiiik/Pengembangan-Sistem-Klasifikasi-Suhu-Wilayah-Indonesias
     cd kategori-suhu-indonesia
     ```
 
